@@ -1,0 +1,8 @@
+Confusion Matrix 
+
+         predicted
+actual    Lancar  Macet 
+  Lancar       28      2
+  Macet         6     14
+
+ Akurasi = 0.84
